@@ -2,8 +2,6 @@
 .env
 *.log
 node_modules/
-package-lock.json
+*.json
 dist/
 
-.npmrc
-npm-cache
